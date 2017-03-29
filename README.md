@@ -1,5 +1,3 @@
-#
-
 {% include youtubeChannel.html id=GMParty %}
 
 ## What is it?
