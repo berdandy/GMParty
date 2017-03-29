@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: GMParty
 description: A casual gathering of analog game makers, providing collaboration, inspiration and support
+show_downloads: false
