@@ -1,4 +1,6 @@
-{% include youtubeChannel.html id=GMParty %}
+{% youtube Two-5_5o9WY&list=PLWqpUADNL_mzFGFc3_zqqKIL7RpskavGR %}
+
+---
 
 ## What is it?
 
