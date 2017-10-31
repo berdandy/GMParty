@@ -1,4 +1,4 @@
-{% include youtubeChannel.html id=GMParty %}
+<!-- {% include youtubeChannel.html id=GMParty %} -->
 
 ## What is it?
 
