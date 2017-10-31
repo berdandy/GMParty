@@ -1,4 +1,6 @@
-{% youtube Two-5_5o9WY&list=PLWqpUADNL_mzFGFc3_zqqKIL7RpskavGR %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/oHg5SJYRHA0?color=white&theme=light"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWqpUADNL_myhWkIMg8gUpzmF8IXcwZIx" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ---
 
