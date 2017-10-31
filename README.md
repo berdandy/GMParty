@@ -1,4 +1,6 @@
-<!-- {% include youtubeChannel.html id=GMParty %} -->
+{% comment %}
+{% include youtubeChannel.html id=GMParty %}
+{% endcomment %}
 
 ## What is it?
 
