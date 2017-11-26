@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWqpUADNL_myhWkIMg8gUpzmF8IXcwZIx" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_Aq2CTxnOo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 --- 
 
@@ -6,9 +6,7 @@
 
 The gmparty is a casual online gathering of analog-only game developers that provide support, collaboration, and offers an opportunity to form new alliances and partnerships. By that, I mean we get together, talk about games we are developing, help each other with ideas and suggestions, and/or just listen. I reserve the right to bring out the cheerleading pom-poms.
 
-Or, if you prefer, watch the intro video below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0_Aq2CTxnOo?rel=0" frameborder="0" allowfullscreen></iframe>
+Or if you prefer, watch the intro video above.
 
 ## Why is it?
 
