@@ -4,7 +4,7 @@
 
 ## What is it?
 
-The GMParty is a casual online gathering of analog-only game developers that provide support, collaboration, and offers an opportunity to form new alliances and partnerships. By that, I mean we get together, talk about games we are developing, help each other with ideas and suggestions, and/or just listen. I reserve the right to bring out the cheerleading pom-poms.
+The gmparty is a casual online gathering of analog-only game developers that provide support, collaboration, and offers an opportunity to form new alliances and partnerships. By that, I mean we get together, talk about games we are developing, help each other with ideas and suggestions, and/or just listen. I reserve the right to bring out the cheerleading pom-poms.
 
 ## Why is it?
 
@@ -20,5 +20,5 @@ One or two times per month. There's already been a few sessions on the [YouTube 
 
 ## How do I get involved?
 
-Contact me, Andy Berdan, via [email](mailto:andy@berdan.ca), or on [twitter](http://twitter.com/andyberdan). There's also a [#GMParty hashtag](https://twitter.com/search?q=%23GMParty), feel free to check that out too. The [GameMakerParty](https://twitter.com/GameMakerParty) account will be used primarily for episode announcements.
+Contact me, Andy Berdan, via [email](mailto:andy@berdan.ca), or on [twitter](http://twitter.com/andyberdan). There's also a [#gmparty hashtag](https://twitter.com/search?q=%23gmparty), feel free to check that out too. The [GameMakerParty](https://twitter.com/GameMakerParty) account will be used primarily for episode announcements.
 
